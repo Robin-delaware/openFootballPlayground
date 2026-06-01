@@ -6,11 +6,6 @@
     "team1": "Mexico",
     "team2": "South Africa",
     "group": "Group A",
-    "score": {"ft": [2, 1], "ht": [2, 0]},
-    "goals1": 
-     [{"name": "Gazinsky", "minute": 12},
-      {"name": "Cheryshev", "minute": 43}],
-    "goals2": [{"name": "Cheryshev", "minute": 43}],
     "ground": "Mexico City"},
    {"round": "Matchday 1",
     "date": "2026-06-11",
@@ -18,10 +13,6 @@
     "team1": "South Korea",
     "team2": "Czech Republic",
     "group": "Group A",
-    "score": {"ft": [1, 2], "ht": [0, 1]},
-    "goals1": 
-     [{"name": "Gazinsky", "minute": 12}],
-    "goals2": [{"name": "Cheryshev", "minute": 43},{"name": "Cheryshev", "minute": 43}],
     "ground": "Guadalajara (Zapopan)"},
    {"round": "Matchday 8",
     "date": "2026-06-18",
