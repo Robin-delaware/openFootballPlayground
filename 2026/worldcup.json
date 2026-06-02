@@ -2642,6 +2642,32 @@
       "time": "15:00 UTC-4",
       "team1": "England",
       "team2": "Panama",
+      "score": {
+        "ft": [
+          2,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Cheryshev",
+          "minute": 43
+        },
+        {
+          "name": "Cheryshev",
+          "minute": 43
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Cheryshev",
+          "minute": 43
+        }
+      ],
       "ground": "New York/New Jersey (East Rutherford)"
     }
   ]
