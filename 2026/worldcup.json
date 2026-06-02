@@ -208,6 +208,10 @@
     "team1": "Germany",
     "team2": "Curaçao",
     "group": "Group E",
+    "score": {"ft": [4, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Cheryshev", "minute": 43},{"name": "Cheryshev", "minute": 43},{"name": "Cheryshev", "minute": 43},{"name": "Cheryshev", "minute": 43}],
+    "goals2": [],
     "ground": "Houston"},
    {"round": "Matchday 4",
     "date": "2026-06-14",
@@ -215,6 +219,10 @@
     "team1": "Ivory Coast",
     "team2": "Ecuador",
     "group": "Group E",
+    "score": {"ft": [1, 1], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Cheryshev", "minute": 43}],
+    "goals2": [{"name": "Cheryshev", "minute": 43}],
     "ground": "Philadelphia"},
    {"round": "Matchday 10",
     "date": "2026-06-20",
@@ -250,6 +258,10 @@
     "team1": "Netherlands",
     "team2": "Japan",
     "group": "Group F",
+    "score": {"ft": [2, 1], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Cheryshev", "minute": 43},{"name": "Cheryshev", "minute": 43}],
+    "goals2": [{"name": "Cheryshev", "minute": 43}],
     "ground": "Dallas (Arlington)"},
    {"round": "Matchday 4",
     "date": "2026-06-14",
@@ -257,6 +269,10 @@
     "team1": "Sweden",
     "team2": "Tunisia",
     "group": "Group F",
+    "score": {"ft": [0, 1], "ht": [0, 0]},
+    "goals1": 
+     [],
+    "goals2": [{"name": "Cheryshev", "minute": 43}],
     "ground": "Monterrey (Guadalupe)"},
    {"round": "Matchday 10",
     "date": "2026-06-20",
