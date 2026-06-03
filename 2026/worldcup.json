@@ -20,18 +20,18 @@
       },
       "goals1": [
         {
-          "name": "Guillermo Ochoa",
-          "minute": 6
+          "name": "Raúl Rangel",
+          "minute": 65
         },
         {
           "name": "Raúl Rangel",
-          "minute": 12
+          "minute": 78
         }
       ],
       "goals2": [
         {
           "name": "Ronwen Williams",
-          "minute": 18
+          "minute": 65
         }
       ],
       "ground": "Mexico City"
@@ -55,18 +55,18 @@
       },
       "goals1": [
         {
-          "name": "Son Heung-min",
-          "minute": 23
+          "name": "Lee Jae-sung",
+          "minute": 65
         }
       ],
       "goals2": [
         {
           "name": "Cheryshev",
-          "minute": 27
+          "minute": 65
         },
         {
           "name": "Matěj Kovář",
-          "minute": 31
+          "minute": 83
         }
       ],
       "ground": "Guadalajara (Zapopan)"
@@ -92,13 +92,13 @@
       "goals1": [
         {
           "name": "Cheryshev",
-          "minute": 35
+          "minute": 65
         }
       ],
       "goals2": [
         {
-          "name": "Ronwen Williams",
-          "minute": 38
+          "name": "Percy Tau",
+          "minute": 65
         }
       ]
     },
@@ -123,11 +123,11 @@
       "goals1": [
         {
           "name": "Guillermo Ochoa",
-          "minute": 42
+          "minute": 65
         },
         {
-          "name": "Raúl Rangel",
-          "minute": 45
+          "name": "Carlos Acevedo",
+          "minute": 87
         }
       ],
       "goals2": []
@@ -152,18 +152,18 @@
       },
       "goals1": [
         {
-          "name": "Cheryshev",
-          "minute": 48
+          "name": "Jindřich Staněk",
+          "minute": 59
         },
         {
-          "name": "Matěj Kovář",
-          "minute": 52
+          "name": "Cheryshev",
+          "minute": 65
         }
       ],
       "goals2": [
         {
-          "name": "Guillermo Ochoa",
-          "minute": 56
+          "name": "Raúl Rangel",
+          "minute": 65
         }
       ]
     },
@@ -187,14 +187,14 @@
       },
       "goals1": [
         {
-          "name": "Ronwen Williams",
-          "minute": 61
+          "name": "Lyle Foster",
+          "minute": 65
         }
       ],
       "goals2": [
         {
-          "name": "Son Heung-min",
-          "minute": 64
+          "name": "Hwang Hee-chan",
+          "minute": 65
         }
       ]
     },
@@ -216,18 +216,18 @@
       },
       "goals1": [
         {
-          "name": "Alphonso Davies",
-          "minute": 68
+          "name": "Milan Borjan",
+          "minute": 36
         },
         {
-          "name": "Jonathan David",
-          "minute": 72
+          "name": "Tajon Buchanan",
+          "minute": 65
         }
       ],
       "goals2": [
         {
-          "name": "Nikola Vasilj",
-          "minute": 75
+          "name": "Amir Hadžiahmetović",
+          "minute": 65
         }
       ],
       "group": "Group B",
@@ -253,12 +253,12 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Granit Xhaka",
-          "minute": 79
+          "name": "Ruben Vargas",
+          "minute": 65
         },
         {
           "name": "Breel Embolo",
-          "minute": 83
+          "minute": 69
         }
       ],
       "ground": "San Francisco Bay Area (Santa Clara)"
@@ -283,18 +283,18 @@
       },
       "goals1": [
         {
-          "name": "Granit Xhaka",
-          "minute": 87
+          "name": "Breel Embolo",
+          "minute": 40
         },
         {
           "name": "Breel Embolo",
-          "minute": 90
+          "minute": 65
         }
       ],
       "goals2": [
         {
           "name": "Nikola Vasilj",
-          "minute": 6
+          "minute": 66
         }
       ]
     },
@@ -318,16 +318,16 @@
       },
       "goals1": [
         {
-          "name": "Alphonso Davies",
-          "minute": 12
+          "name": "Tajon Buchanan",
+          "minute": 42
         },
         {
           "name": "Jonathan David",
-          "minute": 18
+          "minute": 66
         },
         {
-          "name": "Cyle Larin",
-          "minute": 23
+          "name": "Jonathan David",
+          "minute": 74
         }
       ],
       "goals2": []
@@ -353,12 +353,12 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Alphonso Davies",
-          "minute": 27
+          "name": "Jonathan David",
+          "minute": 45
         },
         {
           "name": "Jonathan David",
-          "minute": 31
+          "minute": 66
         }
       ]
     },
@@ -382,8 +382,8 @@
       },
       "goals1": [
         {
-          "name": "Nikola Vasilj",
-          "minute": 35
+          "name": "Martin Zlomislić",
+          "minute": 66
         }
       ],
       "goals2": []
@@ -407,22 +407,22 @@
       },
       "goals1": [
         {
-          "name": "Alisson",
-          "minute": 38
-        },
-        {
-          "name": "Ederson",
+          "name": "Bento",
           "minute": 42
         },
         {
-          "name": "Bento",
-          "minute": 45
+          "name": "Ederson",
+          "minute": 66
+        },
+        {
+          "name": "Alisson",
+          "minute": 79
         }
       ],
       "goals2": [
         {
           "name": "Achraf Hakimi",
-          "minute": 48
+          "minute": 66
         }
       ],
       "ground": "New York/New Jersey (East Rutherford)"
@@ -445,14 +445,14 @@
       },
       "goals1": [
         {
-          "name": "Duckens Nazon",
-          "minute": 52
+          "name": "Kevin Lafrance",
+          "minute": 66
         }
       ],
       "goals2": [
         {
-          "name": "Andrew Robertson",
-          "minute": 56
+          "name": "John McGinn",
+          "minute": 66
         }
       ],
       "group": "Group C",
@@ -478,18 +478,18 @@
       },
       "goals1": [
         {
-          "name": "Andrew Robertson",
-          "minute": 61
+          "name": "Ryan Christie",
+          "minute": 66
         }
       ],
       "goals2": [
         {
-          "name": "Achraf Hakimi",
-          "minute": 64
+          "name": "Hakim Ziyech",
+          "minute": 27
         },
         {
-          "name": "Hakim Ziyech",
-          "minute": 68
+          "name": "Ibrahim Diaz",
+          "minute": 66
         }
       ]
     },
@@ -513,16 +513,16 @@
       },
       "goals1": [
         {
+          "name": "Ederson",
+          "minute": 42
+        },
+        {
           "name": "Alisson",
-          "minute": 72
+          "minute": 66
         },
         {
           "name": "Ederson",
-          "minute": 75
-        },
-        {
-          "name": "Bento",
-          "minute": 79
+          "minute": 88
         }
       ],
       "goals2": []
@@ -549,15 +549,15 @@
       "goals2": [
         {
           "name": "Alisson",
-          "minute": 83
+          "minute": 12
         },
         {
           "name": "Ederson",
-          "minute": 87
+          "minute": 60
         },
         {
-          "name": "Bento",
-          "minute": 90
+          "name": "Alisson",
+          "minute": 66
         }
       ]
     },
@@ -582,17 +582,17 @@
       "goals1": [
         {
           "name": "Achraf Hakimi",
-          "minute": 6
+          "minute": 32
         },
         {
-          "name": "Hakim Ziyech",
-          "minute": 12
+          "name": "Youssef En-Nesyri",
+          "minute": 66
         }
       ],
       "goals2": [
         {
           "name": "Duckens Nazon",
-          "minute": 18
+          "minute": 66
         }
       ]
     },
@@ -635,12 +635,12 @@
       },
       "goals1": [
         {
-          "name": "Mathew Leckie",
-          "minute": 23
+          "name": "Aaron Mooy",
+          "minute": 65
         },
         {
-          "name": "Aaron Mooy",
-          "minute": 27
+          "name": "Mitchell Duke",
+          "minute": 66
         }
       ],
       "goals2": [],
@@ -667,22 +667,22 @@
       },
       "goals1": [
         {
-          "name": "Christian Pulisic",
-          "minute": 31
+          "name": "Josh Sargent",
+          "minute": 36
         },
         {
-          "name": "Tyler Adams",
-          "minute": 35
+          "name": "Gio Reyna",
+          "minute": 66
         }
       ],
       "goals2": [
         {
-          "name": "Mathew Leckie",
-          "minute": 38
+          "name": "Martin Boyle",
+          "minute": 8
         },
         {
           "name": "Aaron Mooy",
-          "minute": 42
+          "minute": 66
         }
       ]
     },
@@ -707,7 +707,7 @@
       "goals1": [
         {
           "name": "Hakan Calhanoglu",
-          "minute": 45
+          "minute": 66
         }
       ],
       "goals2": []
@@ -733,8 +733,8 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Christian Pulisic",
-          "minute": 48
+          "name": "Weston McKennie",
+          "minute": 66
         }
       ]
     },
@@ -759,12 +759,12 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Mathew Leckie",
-          "minute": 52
+          "name": "Cameron Devlin",
+          "minute": 13
         },
         {
-          "name": "Aaron Mooy",
-          "minute": 56
+          "name": "Cameron Devlin",
+          "minute": 66
         }
       ]
     },
@@ -787,20 +787,20 @@
       },
       "goals1": [
         {
-          "name": "Florian Wirtz",
-          "minute": 61
+          "name": "Ilkay Gundogan",
+          "minute": 12
         },
         {
-          "name": "Kai Havertz",
-          "minute": 64
+          "name": "Ilkay Gundogan",
+          "minute": 66
         },
         {
-          "name": "Jamal Musiala",
-          "minute": 68
+          "name": "Joshua Kimmich",
+          "minute": 75
         },
         {
           "name": "Leroy Sane",
-          "minute": 72
+          "minute": 83
         }
       ],
       "goals2": [],
@@ -826,13 +826,13 @@
       "goals1": [
         {
           "name": "Sebastien Haller",
-          "minute": 75
+          "minute": 66
         }
       ],
       "goals2": [
         {
           "name": "Enner Valencia",
-          "minute": 79
+          "minute": 66
         }
       ],
       "ground": "Philadelphia"
@@ -858,11 +858,11 @@
       "goals1": [
         {
           "name": "Florian Wirtz",
-          "minute": 83
+          "minute": 66
         },
         {
-          "name": "Kai Havertz",
-          "minute": 87
+          "name": "Ilkay Gundogan",
+          "minute": 79
         }
       ],
       "goals2": []
@@ -888,13 +888,13 @@
       "goals1": [
         {
           "name": "Enner Valencia",
-          "minute": 90
+          "minute": 66
         }
       ],
       "goals2": [
         {
-          "name": "Leandro Bacuna",
-          "minute": 6
+          "name": "Elson Hooi",
+          "minute": 66
         }
       ]
     },
@@ -918,22 +918,22 @@
       },
       "goals1": [
         {
-          "name": "Leandro Bacuna",
-          "minute": 12
+          "name": "Elson Hooi",
+          "minute": 66
         }
       ],
       "goals2": [
         {
           "name": "Sebastien Haller",
-          "minute": 18
-        },
-        {
-          "name": "Nicolas Pepe",
-          "minute": 23
+          "minute": 56
         },
         {
           "name": "Franck Kessie",
-          "minute": 27
+          "minute": 66
+        },
+        {
+          "name": "Sebastien Haller",
+          "minute": 72
         }
       ]
     },
@@ -958,21 +958,21 @@
       "goals1": [
         {
           "name": "Enner Valencia",
-          "minute": 31
+          "minute": 28
         },
         {
-          "name": "Moises Caicedo",
-          "minute": 35
+          "name": "Angelo Preciado",
+          "minute": 66
         }
       ],
       "goals2": [
         {
-          "name": "Florian Wirtz",
-          "minute": 38
+          "name": "Leroy Sane",
+          "minute": 67
         },
         {
-          "name": "Kai Havertz",
-          "minute": 42
+          "name": "Florian Wirtz",
+          "minute": 89
         }
       ]
     },
@@ -995,18 +995,18 @@
       },
       "goals1": [
         {
-          "name": "Virgil van Dijk",
-          "minute": 45
+          "name": "Cody Gakpo",
+          "minute": 61
         },
         {
-          "name": "Cody Gakpo",
-          "minute": 48
+          "name": "Frenkie de Jong",
+          "minute": 67
         }
       ],
       "goals2": [
         {
-          "name": "Takumi Minamino",
-          "minute": 52
+          "name": "Hiroki Ito",
+          "minute": 67
         }
       ],
       "ground": "Dallas (Arlington)"
@@ -1032,7 +1032,7 @@
       "goals2": [
         {
           "name": "Wahbi Khazri",
-          "minute": 56
+          "minute": 67
         }
       ],
       "ground": "Monterrey (Guadalupe)"
@@ -1057,22 +1057,22 @@
       },
       "goals1": [
         {
-          "name": "Virgil van Dijk",
-          "minute": 61
+          "name": "Memphis Depay",
+          "minute": 66
         },
         {
           "name": "Cody Gakpo",
-          "minute": 64
+          "minute": 67
         },
         {
-          "name": "Memphis Depay",
-          "minute": 68
+          "name": "Wout Weghorst",
+          "minute": 72
         }
       ],
       "goals2": [
         {
           "name": "Kristoffer Nordfeldt",
-          "minute": 72
+          "minute": 67
         }
       ]
     },
@@ -1097,12 +1097,12 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Takumi Minamino",
-          "minute": 75
+          "name": "Ritsu Doan",
+          "minute": 9
         },
         {
-          "name": "Daichi Kamada",
-          "minute": 79
+          "name": "Kaoru Mitoma",
+          "minute": 67
         }
       ]
     },
@@ -1126,18 +1126,18 @@
       },
       "goals1": [
         {
-          "name": "Takumi Minamino",
-          "minute": 83
+          "name": "Ritsu Doan",
+          "minute": 67
         }
       ],
       "goals2": [
         {
-          "name": "Kristoffer Nordfeldt",
-          "minute": 87
+          "name": "Viktor Johansson",
+          "minute": 42
         },
         {
           "name": "Viktor Johansson",
-          "minute": 90
+          "minute": 67
         }
       ]
     },
@@ -1161,18 +1161,18 @@
       },
       "goals1": [
         {
-          "name": "Wahbi Khazri",
-          "minute": 6
+          "name": "Ellyes Skhiri",
+          "minute": 67
         }
       ],
       "goals2": [
         {
-          "name": "Virgil van Dijk",
-          "minute": 12
+          "name": "Wout Weghorst",
+          "minute": 67
         },
         {
-          "name": "Cody Gakpo",
-          "minute": 18
+          "name": "Wout Weghorst",
+          "minute": 75
         }
       ]
     },
@@ -1196,18 +1196,18 @@
       },
       "goals1": [
         {
-          "name": "Romelu Lukaku",
-          "minute": 23
+          "name": "Kevin De Bruyne",
+          "minute": 47
         },
         {
-          "name": "Kevin De Bruyne",
-          "minute": 27
+          "name": "Yannick Carrasco",
+          "minute": 67
         }
       ],
       "goals2": [
         {
-          "name": "Mohamed Salah",
-          "minute": 31
+          "name": "Trezeguet",
+          "minute": 67
         }
       ]
     },
@@ -1252,12 +1252,12 @@
       },
       "goals1": [
         {
-          "name": "Romelu Lukaku",
-          "minute": 35
+          "name": "Timothy Castagne",
+          "minute": 67
         },
         {
           "name": "Kevin De Bruyne",
-          "minute": 38
+          "minute": 80
         }
       ],
       "goals2": []
@@ -1283,13 +1283,13 @@
       "goals1": [
         {
           "name": "Chris Wood",
-          "minute": 42
+          "minute": 67
         }
       ],
       "goals2": [
         {
           "name": "Mohamed Salah",
-          "minute": 45
+          "minute": 67
         }
       ]
     },
@@ -1314,13 +1314,13 @@
       "goals1": [
         {
           "name": "Mohamed Salah",
-          "minute": 48
+          "minute": 67
         }
       ],
       "goals2": [
         {
           "name": "Mehdi Taremi",
-          "minute": 52
+          "minute": 67
         }
       ]
     },
@@ -1345,12 +1345,12 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Romelu Lukaku",
-          "minute": 56
+          "name": "Axel Witsel",
+          "minute": 28
         },
         {
-          "name": "Kevin De Bruyne",
-          "minute": 61
+          "name": "Lois Openda",
+          "minute": 67
         }
       ]
     },
@@ -1374,16 +1374,16 @@
       },
       "goals1": [
         {
-          "name": "Lamine Yamal",
-          "minute": 64
-        },
-        {
           "name": "Dani Olmo",
-          "minute": 68
+          "minute": 67
         },
         {
-          "name": "Alvaro Morata",
+          "name": "Fabian Ruiz",
           "minute": 72
+        },
+        {
+          "name": "Fabian Ruiz",
+          "minute": 90
         }
       ],
       "goals2": []
@@ -1408,18 +1408,18 @@
       },
       "goals1": [
         {
-          "name": "Salem Al-Dawsari",
-          "minute": 75
+          "name": "Mohammed Al-Shehri",
+          "minute": 67
         }
       ],
       "goals2": [
         {
-          "name": "Darwin Nunez",
-          "minute": 79
+          "name": "Giorgian De Arrascaeta",
+          "minute": 33
         },
         {
-          "name": "Federico Valverde",
-          "minute": 83
+          "name": "Luis Suarez",
+          "minute": 67
         }
       ]
     },
@@ -1444,15 +1444,15 @@
       "goals1": [
         {
           "name": "Lamine Yamal",
-          "minute": 87
+          "minute": 5
         },
         {
-          "name": "Dani Olmo",
-          "minute": 90
+          "name": "Pedri",
+          "minute": 67
         },
         {
-          "name": "Alvaro Morata",
-          "minute": 6
+          "name": "Lamine Yamal",
+          "minute": 72
         }
       ],
       "goals2": []
@@ -1478,17 +1478,17 @@
       "goals1": [
         {
           "name": "Darwin Nunez",
-          "minute": 12
+          "minute": 66
         },
         {
-          "name": "Federico Valverde",
-          "minute": 18
+          "name": "Edinson Cavani",
+          "minute": 67
         }
       ],
       "goals2": [
         {
-          "name": "Garry Rodrigues",
-          "minute": 23
+          "name": "Julio Tavares",
+          "minute": 67
         }
       ]
     },
@@ -1514,15 +1514,15 @@
       "goals2": [
         {
           "name": "Salem Al-Dawsari",
-          "minute": 27
+          "minute": 10
         },
         {
-          "name": "Mohammed Al-Shehri",
-          "minute": 31
+          "name": "Salem Al-Dawsari",
+          "minute": 67
         },
         {
-          "name": "Saleh Al-Shehri",
-          "minute": 35
+          "name": "Firas Al-Buraikan",
+          "minute": 71
         }
       ]
     },
@@ -1547,21 +1547,21 @@
       "goals1": [
         {
           "name": "Darwin Nunez",
-          "minute": 38
+          "minute": 67
         },
         {
-          "name": "Federico Valverde",
-          "minute": 42
+          "name": "Darwin Nunez",
+          "minute": 71
         }
       ],
       "goals2": [
         {
           "name": "Lamine Yamal",
-          "minute": 45
+          "minute": 43
         },
         {
-          "name": "Dani Olmo",
-          "minute": 48
+          "name": "Lamine Yamal",
+          "minute": 67
         }
       ]
     },
@@ -1586,11 +1586,11 @@
       "goals1": [
         {
           "name": "Kylian Mbappe",
-          "minute": 52
+          "minute": 15
         },
         {
-          "name": "Antoine Griezmann",
-          "minute": 56
+          "name": "Kylian Mbappe",
+          "minute": 68
         }
       ],
       "goals2": []
@@ -1615,17 +1615,17 @@
       },
       "goals1": [
         {
-          "name": "Aymen Hussein",
-          "minute": 61
+          "name": "Amjad Attwan",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Erling Haaland",
-          "minute": 64
+          "name": "Alexander Sorloth",
+          "minute": 48
         },
         {
-          "name": "Martin Odegaard",
+          "name": "Alexander Sorloth",
           "minute": 68
         }
       ]
@@ -1650,12 +1650,12 @@
       },
       "goals1": [
         {
-          "name": "Kylian Mbappe",
-          "minute": 72
+          "name": "Marcus Thuram",
+          "minute": 19
         },
         {
           "name": "Antoine Griezmann",
-          "minute": 75
+          "minute": 68
         }
       ],
       "goals2": []
@@ -1680,14 +1680,14 @@
       },
       "goals1": [
         {
-          "name": "Erling Haaland",
-          "minute": 79
+          "name": "Martin Odegaard",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Sadio Mane",
-          "minute": 83
+          "name": "Ismaila Sarr",
+          "minute": 68
         }
       ]
     },
@@ -1711,22 +1711,22 @@
       },
       "goals1": [
         {
-          "name": "Erling Haaland",
-          "minute": 87
+          "name": "Sander Berge",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Kylian Mbappe",
-          "minute": 90
+          "name": "Adrien Rabiot",
+          "minute": 41
         },
         {
-          "name": "Antoine Griezmann",
-          "minute": 6
+          "name": "Adrien Rabiot",
+          "minute": 68
         },
         {
-          "name": "Ousmane Dembele",
-          "minute": 12
+          "name": "Marcus Thuram",
+          "minute": 86
         }
       ]
     },
@@ -1750,12 +1750,12 @@
       },
       "goals1": [
         {
-          "name": "Sadio Mane",
-          "minute": 18
+          "name": "Kalidou Koulibaly",
+          "minute": 58
         },
         {
-          "name": "Kalidou Koulibaly",
-          "minute": 23
+          "name": "Sadio Mane",
+          "minute": 68
         }
       ],
       "goals2": []
@@ -1780,22 +1780,22 @@
       },
       "goals1": [
         {
-          "name": "Emiliano Martínez",
-          "minute": 27
-        },
-        {
           "name": "Gerónimo Rulli",
-          "minute": 31
+          "minute": 29
         },
         {
-          "name": "Juan Musso",
-          "minute": 35
+          "name": "Emiliano Martínez",
+          "minute": 68
+        },
+        {
+          "name": "Emiliano Martínez",
+          "minute": 71
         }
       ],
       "goals2": [
         {
           "name": "Riyad Mahrez",
-          "minute": 38
+          "minute": 68
         }
       ]
     },
@@ -1819,14 +1819,14 @@
       },
       "goals1": [
         {
-          "name": "David Alaba",
-          "minute": 42
+          "name": "Marko Arnautovic",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Musa Al-Taamari",
-          "minute": 45
+          "name": "Hamza Al-Dardour",
+          "minute": 68
         }
       ]
     },
@@ -1850,22 +1850,22 @@
       },
       "goals1": [
         {
+          "name": "Gerónimo Rulli",
+          "minute": 6
+        },
+        {
           "name": "Emiliano Martínez",
-          "minute": 48
+          "minute": 41
         },
         {
           "name": "Gerónimo Rulli",
-          "minute": 52
-        },
-        {
-          "name": "Juan Musso",
-          "minute": 56
+          "minute": 68
         }
       ],
       "goals2": [
         {
           "name": "David Alaba",
-          "minute": 61
+          "minute": 68
         }
       ]
     },
@@ -1890,8 +1890,8 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Riyad Mahrez",
-          "minute": 64
+          "name": "Islam Slimani",
+          "minute": 39
         },
         {
           "name": "Ismael Bennacer",
@@ -1919,22 +1919,22 @@
       },
       "goals1": [
         {
-          "name": "Riyad Mahrez",
-          "minute": 72
+          "name": "Islam Slimani",
+          "minute": 11
         },
         {
-          "name": "Ismael Bennacer",
-          "minute": 75
+          "name": "Youcef Atal",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "David Alaba",
-          "minute": 79
+          "name": "Konrad Laimer",
+          "minute": 68
         },
         {
-          "name": "Marcel Sabitzer",
-          "minute": 83
+          "name": "Christoph Baumgartner",
+          "minute": 72
         }
       ]
     },
@@ -1959,16 +1959,16 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Emiliano Martínez",
-          "minute": 87
-        },
-        {
-          "name": "Gerónimo Rulli",
-          "minute": 90
+          "name": "Juan Musso",
+          "minute": 44
         },
         {
           "name": "Juan Musso",
-          "minute": 6
+          "minute": 68
+        },
+        {
+          "name": "Emiliano Martínez",
+          "minute": 71
         }
       ]
     },
@@ -1992,16 +1992,16 @@
       },
       "goals1": [
         {
+          "name": "Vitinha",
+          "minute": 15
+        },
+        {
+          "name": "Joao Cancelo",
+          "minute": 41
+        },
+        {
           "name": "Cristiano Ronaldo",
-          "minute": 12
-        },
-        {
-          "name": "Bruno Fernandes",
-          "minute": 18
-        },
-        {
-          "name": "Bernardo Silva",
-          "minute": 23
+          "minute": 68
         }
       ],
       "goals2": []
@@ -2027,17 +2027,17 @@
       "goals1": [
         {
           "name": "Utkir Yusupov",
-          "minute": 27
+          "minute": 68
         }
       ],
       "goals2": [
         {
           "name": "Luis Diaz",
-          "minute": 31
+          "minute": 49
         },
         {
-          "name": "James Rodriguez",
-          "minute": 35
+          "name": "Luis Diaz",
+          "minute": 68
         }
       ]
     },
@@ -2062,11 +2062,11 @@
       "goals1": [
         {
           "name": "Cristiano Ronaldo",
-          "minute": 38
+          "minute": 20
         },
         {
-          "name": "Bruno Fernandes",
-          "minute": 42
+          "name": "Cristiano Ronaldo",
+          "minute": 68
         }
       ],
       "goals2": []
@@ -2091,14 +2091,14 @@
       },
       "goals1": [
         {
-          "name": "Luis Diaz",
-          "minute": 45
+          "name": "Duvan Zapata",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Cedric Bakambu",
-          "minute": 48
+          "name": "Yannick Bolasie",
+          "minute": 68
         }
       ]
     },
@@ -2122,18 +2122,18 @@
       },
       "goals1": [
         {
-          "name": "Luis Diaz",
-          "minute": 52
+          "name": "James Rodriguez",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Cristiano Ronaldo",
-          "minute": 56
+          "name": "Bruno Fernandes",
+          "minute": 68
         },
         {
-          "name": "Bruno Fernandes",
-          "minute": 61
+          "name": "Cristiano Ronaldo",
+          "minute": 87
         }
       ]
     },
@@ -2157,13 +2157,13 @@
       },
       "goals1": [
         {
-          "name": "Cedric Bakambu",
-          "minute": 64
+          "name": "Chancel Mbemba",
+          "minute": 68
         }
       ],
       "goals2": [
         {
-          "name": "Utkir Yusupov",
+          "name": "Botirali Ergashev",
           "minute": 68
         }
       ]
@@ -2188,18 +2188,18 @@
       },
       "goals1": [
         {
-          "name": "Unknown",
-          "minute": 72
+          "name": "Jude Bellingham",
+          "minute": 2
         },
         {
-          "name": "Unknown",
-          "minute": 75
+          "name": "Marcus Rashford",
+          "minute": 69
         }
       ],
       "goals2": [
         {
           "name": "Unknown",
-          "minute": 79
+          "minute": 69
         }
       ]
     },
@@ -2244,22 +2244,22 @@
       },
       "goals1": [
         {
-          "name": "Unknown",
-          "minute": 83
+          "name": "Jude Bellingham",
+          "minute": 35
         },
         {
-          "name": "Unknown",
-          "minute": 87
+          "name": "Raheem Sterling",
+          "minute": 41
         },
         {
-          "name": "Unknown",
-          "minute": 90
+          "name": "Harry Kane",
+          "minute": 69
         }
       ],
       "goals2": [
         {
           "name": "Unknown",
-          "minute": 6
+          "minute": 69
         }
       ]
     },
@@ -2285,11 +2285,11 @@
       "goals2": [
         {
           "name": "Unknown",
-          "minute": 12
+          "minute": 68
         },
         {
           "name": "Unknown",
-          "minute": 18
+          "minute": 69
         }
       ]
     },
@@ -2314,12 +2314,12 @@
       "goals1": [],
       "goals2": [
         {
-          "name": "Unknown",
-          "minute": 23
+          "name": "Jude Bellingham",
+          "minute": 40
         },
         {
-          "name": "Unknown",
-          "minute": 27
+          "name": "Jude Bellingham",
+          "minute": 69
         }
       ]
     },
@@ -2344,17 +2344,17 @@
       "goals1": [
         {
           "name": "Unknown",
-          "minute": 31
+          "minute": 11
         },
         {
           "name": "Unknown",
-          "minute": 35
+          "minute": 69
         }
       ],
       "goals2": [
         {
           "name": "Unknown",
-          "minute": 38
+          "minute": 69
         }
       ]
     },
@@ -2654,18 +2654,18 @@
       },
       "goals1": [
         {
-          "name": "Unknown",
-          "minute": 42
+          "name": "Phil Foden",
+          "minute": 45
         },
         {
-          "name": "Unknown",
-          "minute": 45
+          "name": "Phil Foden",
+          "minute": 69
         }
       ],
       "goals2": [
         {
-          "name": "Unknown",
-          "minute": 48
+          "name": "Alberto Quintero",
+          "minute": 69
         }
       ],
       "ground": "New York/New Jersey (East Rutherford)"
