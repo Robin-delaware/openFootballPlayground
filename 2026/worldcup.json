@@ -56,6 +56,11 @@
     "time": "15:00 UTC-4",
     "team1": "Canada",
     "team2": "Bosnia & Herzegovina",
+    "score": {"ft": [2, 1], "ht": [2, 0]},
+    "goals1": 
+     [{"name": "Gazinsky", "minute": 12},
+      {"name": "Cheryshev", "minute": 43}],
+    "goals2": [{"name": "Cheryshev", "minute": 43}],
     "group": "Group B",
     "ground": "Toronto"},
    {"round": "Matchday 3",
@@ -140,6 +145,10 @@
     "time": "18:00 UTC-7",
     "team1": "USA",
     "team2": "Paraguay",
+    "score": {"ft": [0, 0], "ht": [0, 0]},
+    "goals1": 
+     [],
+    "goals2": [],
     "group": "Group D",
     "ground": "Los Angeles (Inglewood)"},
    {"round": "Matchday 3",
